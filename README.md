@@ -1,14 +1,14 @@
 # arthropod-community-in-wild-cotton
 
 
-Authors: Javier Pérez-López Φ ▲ ‡ ; Ek del Val « ; Juan Fornoni ▵; Valeria Alavez Φ▲ ; Ana Wegier Φ ‡. 
+Authors: Javier Pérez-López Φ ▲ ‡ ; Ek del Val þ; Juan Fornoni ▵; Valeria Alavez Φ▲ ; Ana Wegier Φ ‡. 
 
 
 Φ Laboratorio de Genética de la Conservación, Jardín Botánico, Instituto de Biología, Universidad Nacional Autónoma de México, Ciudad de México, México.
 
 ▲ Posgrado en Ciencias Biológicas, Instituto de Biología, Universidad Nacional Autónoma de México, Ciudad de México, México.
 
-« Instituto de Investigaciones en Ecosistemas y Sustentabilidad, Universidad Nacional Autónoma de México, Antigua Carretera a Pátzcuaro No. 8701, Ex-Hacienda de San José de La Huerta, CP 58190 Morelia, Michoacán, México
+þ Instituto de Investigaciones en Ecosistemas y Sustentabilidad, Universidad Nacional Autónoma de México, Antigua Carretera a Pátzcuaro No. 8701, Ex-Hacienda de San José de La Huerta, CP 58190 Morelia, Michoacán, México
 
 ▵ Departamento de Ecología Evolutiva, Instituto de Ecología, Universidad Nacional Autónoma de México.
 
